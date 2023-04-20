@@ -95,6 +95,11 @@ img {
   letter-spacing: .05em;
 }
 
+.header-logo:hover{
+  letter-spacing:0.2em;
+  transition:0.5s all;
+ }
+
 .header-logo a {
   color: #333;
 }
